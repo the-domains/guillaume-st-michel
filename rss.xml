@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Guillaume St.Michel]]></title>
         <description><![CDATA[Guillaume St.Michel]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/guillaume-st-michel/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 16 Feb 2016 00:25:32 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 26 Apr 2016 09:30:20 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/guillaume-st-michel/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8672f22d-4afc-4194-907a-849afbdf4418.jpg">]]></description>
+            <link>https://thegrid.ai/guillaume-st-michel/yo-bitch/index.html</link>
+            <guid isPermaLink="false">e86bfd4d-74fb-4f04-b846-5dcedbe87bea</guid>
+            <pubDate>Tue, 26 Apr 2016 09:29:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1d6dd9d5-06a3-4c5d-bb6d-3459590fd5fe.png">]]></description>
-            <link>undefinedc2b8e5bb-d21f-4e17-b1cf-00683e25f376/index.html</link>
+            <link>https://thegrid.ai/guillaume-st-michel/c2b8e5bb-d21f-4e17-b1cf-00683e25f376/index.html</link>
             <guid isPermaLink="false">c2b8e5bb-d21f-4e17-b1cf-00683e25f376</guid>
             <pubDate>Tue, 16 Feb 2016 00:20:57 GMT</pubDate>
         </item>
